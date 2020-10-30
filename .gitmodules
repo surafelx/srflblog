@@ -1,0 +1,3 @@
+[submodule "srflx/themes/eureka"]
+	path = srflx/themes/eureka
+	url = https://github.com/wangchucheng/hugo-eureka.git
